@@ -1,0 +1,1 @@
+echo "The build with tag $BUILD_TAG and build number $BUILD_NUMBER has been executed."
